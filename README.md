@@ -3,7 +3,7 @@ The aim of this project was to draw a boundary around the tumor in Brain MRI sca
 
 All the metrics are on validation data which was 20% of whole dataset
 
-![Metrics](https://github.com/yashkhasgiwala/Semantic-segmentation-of-tumor-using-brain-MRI-scans/blob/main/Images/metrics.JPG?raw=true)
+![Metrics](https://github.com/yashkhasgiwala/Semantic-segmentation-of-tumor-using-brain-MRI-scans/blob/main/Images/metrics.jpg?raw=true)
 
 Some examples of prediction of Resunet trained using Focal Tversky Loss
 
